@@ -1,7 +1,6 @@
 {
     
-    "name": "MCTapirs Springer-Presse Blocker
-    ",
+    "name": "MCTapirs Springer-Presse Blocker",
     "version": "1.0",
     "description": "Blockt die Springer Presse",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
