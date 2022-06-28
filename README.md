@@ -1,6 +1,9 @@
 # MCTapirs-Springer-Presse-Bocker
 Blockt die Bild, Welt und viele andere
 
+
+
+
 **Version 1.0.0**
 
 Diese Browser-Erweiterung blockt die die Springer-Presse
