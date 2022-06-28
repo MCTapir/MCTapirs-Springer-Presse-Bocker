@@ -25,3 +25,16 @@ Auf diese Github-Seite verweisen.
 Wenn du etwas veränderst, sagen was vorgenommen wurde.
 Das Material nicht einfach reposten.
 MCTapir auf Youtube abonnieren und einem Video einen Like geben.
+
+
+**Installieren bei Chrome
+
+1. Downloade die Erweiterung
+2. Entpacke die Erweiterung
+3. gehe auf chrome://extensions
+4. Wenn noch nicht aktiviert ist, aktiviere den Developer Mode
+5. Lade die entpackte Erweiterung
+
+
+**Installieren bei FireFox
+Comming Soon
