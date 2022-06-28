@@ -27,7 +27,7 @@ Das Material nicht einfach reposten.
 MCTapir auf Youtube abonnieren und einem Video einen Like geben.
 
 
-**Installieren bei Chrome
+## Installieren bei Chrome
 
 1. Downloade die Erweiterung
 2. Entpacke die Erweiterung
@@ -36,5 +36,5 @@ MCTapir auf Youtube abonnieren und einem Video einen Like geben.
 5. Lade die entpackte Erweiterung
 
 
-**Installieren bei FireFox
+## Installieren bei FireFox
 Comming Soon
