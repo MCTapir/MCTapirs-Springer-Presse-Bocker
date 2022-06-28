@@ -1,0 +1,15 @@
+{
+    
+    "name": "Halt die Fresse Springer Presse",
+    "version": "1.0",
+    "description": "Blockt die Springer Presse",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png"
+    },
+
+    "manifest_version": 2
+}
